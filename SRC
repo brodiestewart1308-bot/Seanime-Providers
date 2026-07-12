@@ -1,0 +1,10 @@
+Seanime-Providers/
+│
+├── src/
+│   └── anime/
+│       └── enmalol/
+│           ├── manifest.json
+│           └── provider.js
+└── public/
+    └── enmalol.ico
+
