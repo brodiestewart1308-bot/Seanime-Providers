@@ -68,11 +68,10 @@ async function getEpisodeSources(episodeId) {
 }
 
 // Export provider API
-export default {
+module.exports = {
     id: "enmalol",
     name: "Enma.lol Anime Library",
     search,
     getAnimeInfo,
     getEpisodeSources
 };
-
