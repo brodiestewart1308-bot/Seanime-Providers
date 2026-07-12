@@ -1,13 +1,13 @@
 {
-  "id": "enmalol",
-  "name": "Enma.lol Anime Library",
-  "description": "Enma.lol is an online streaming provider for subbed anime.",
-  "manifestURI": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/refs/heads/main/src/anime/enmalol/manifest.json",
+  "id": "enma.lol",
+  "name": "Enma.Lol",
+  "description": "AniBD is an online streaming provider for subbed BD anime in english",
+  "manifestURI": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/main/src/anime/enmalol/manifest.json",
   "version": "1.0.0",
-  "author": "",
+  "author": "olaf",
   "type": "onlinestream-provider",
   "language": "javascript",
   "lang": "en",
-  "icon": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/refs/heads/main/public/enmalol.ico",
-  "payloadURI": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/refs/heads/main/src/anime/enmalol/provider.js"
+  "icon": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/main/public/enmalol.ico",
+  "payloadURI": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/main/src/anime/enmalol/provider.js"
 }
