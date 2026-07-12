@@ -9,6 +9,6 @@
   "language": "en",
   "scriptLanguage": "javascript",
   "icon": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/main/public/enmalol.ico",
-  "entry": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/main/src/anime/enmalol/provider.js",
+  "entry": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/refs/heads/main/src/anime/enmalol/provider.js",
   "homepage": "https://enma.lol"
 }
