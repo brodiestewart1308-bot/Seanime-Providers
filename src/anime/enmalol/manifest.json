@@ -8,6 +8,6 @@
   "type": "onlinestream-provider",
   "language": "javascript",
   "lang": "en",
-  "icon": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/main/public/enmalol.ico",
+  "icon": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/refs/heads/main/public/enmalol.ico",
   "payloadURI": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/refs/heads/main/src/anime/enmalol/provider.js"
 }
