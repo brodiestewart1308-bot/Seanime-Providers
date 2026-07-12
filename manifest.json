@@ -1,0 +1,13 @@
+{
+  "id": "enmalol",
+  "name": "Enma.lol Anime Library",
+  "description": "Enma.lol is an online streaming provider for subbed anime.",
+  "manifestURI": "https://raw.githubusercontent.com/<YourUser>/Seanime-Providers/main/src/anime/enmalol/manifest.json",
+  "version": "1.0.0",
+  "author": "<YourName>",
+  "type": "onlinestream-provider",
+  "language": "javascript",
+  "lang": "en",
+  "icon": "https://raw.githubusercontent.com/<YourUser>/Seanime-Providers/main/public/enmalol.ico",
+  "payloadURI": "https://raw.githubusercontent.com/<YourUser>/Seanime-Providers/main/src/anime/enmalol/provider.js"
+}
