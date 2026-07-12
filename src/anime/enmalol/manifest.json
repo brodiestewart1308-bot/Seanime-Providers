@@ -1,7 +1,7 @@
 {
   "id": "enma.lol",
-  "name": "Enma.Lol",
-  "description": "AniBD is an online streaming provider for subbed BD anime in english",
+  "name": "Enma.Lol Anime Library",
+  "description": "Enmalol is an online streaming provider for subbed anime in english",
   "manifestURI": "https://raw.githubusercontent.com/brodiestewart1308-bot/Seanime-Providers/main/src/anime/enmalol/manifest.json",
   "version": "1.0.0",
   "author": "olaf",
